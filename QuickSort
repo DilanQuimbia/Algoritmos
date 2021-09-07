@@ -1,0 +1,4 @@
+Elementos originales
+[123][-6][13][-33][-98][333][23][-5][0][-100]
+Elementos ordenados por Quicksort
+[-100][-98][-33][-6][-5][0][13][23][123][333]
